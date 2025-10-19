@@ -36,8 +36,8 @@ The focus is on demonstrating proper data preprocessing, model training, evaluat
 | KNN | *0.0672* | *0.2222* | *0.0396* | *0.6548* |
 | **Best Model:** Logistic Regression (L2)** |
 
-*(Replace the X’s with your actual printed scores.)*
 
 ## 🏆 Kaggle Leaderboard
-A screenshot of the Kaggle leaderboard showing the ranking is included under:
+<img width="1710" height="1107" alt="Screenshot 2025-10-19 at 2 19 05 PM" src="https://github.com/user-attachments/assets/ceab4134-0c18-4e6b-aec0-5fae4a5e4d6f" />
+
 
