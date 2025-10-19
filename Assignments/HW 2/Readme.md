@@ -38,6 +38,5 @@ The focus is on demonstrating proper data preprocessing, model training, evaluat
 
 
 ## 🏆 Kaggle Leaderboard
-<img width="1710" height="1107" alt="Screenshot 2025-10-19 at 2 19 05 PM" src="https://github.com/user-attachments/assets/ceab4134-0c18-4e6b-aec0-5fae4a5e4d6f" />
-
+<img width="1710" height="1107" alt="Screenshot 2025-10-19 at 2 20 47 PM" src="https://github.com/user-attachments/assets/8c9c915e-4700-456c-a6a9-fc6aa321df5e" />
 
