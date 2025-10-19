@@ -31,9 +31,9 @@ The focus is on demonstrating proper data preprocessing, model training, evaluat
 ## 📊 Evaluation Metrics (Validation Set)
 | Model | F1 | Precision | Recall | AUC |
 |-------|----|------------|--------|-----|
-| Logistic Regression (L2) | *0.XXX* | *0.XXX* | *0.XXX* | *0.XXX* |
-| Logistic Regression (L1) | *0.XXX* | *0.XXX* | *0.XXX* | *0.XXX* |
-| KNN | *0.XXX* | *0.XXX* | *0.XXX* | *0.XXX* |
+| Logistic Regression (L2) | *0.2321* | *0.1357* | * 0.8020* | 0.8684 |
+| Logistic Regression (L1) | *0.2225* | *0.1292* | 0.8020* | *0.8688* |
+| KNN | *0.0672* | *0.2222* | *0.0396* | *0.6548* |
 | **Best Model:** Logistic Regression (L2)** |
 
 *(Replace the X’s with your actual printed scores.)*
